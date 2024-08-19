@@ -1,6 +1,6 @@
-## Hello to anyone taking a look 👀
+## Hello anyone 👀
 
-My name is Daniel and I am a backend developer.
+i'm a backend developer.
 
 ## technologies 
 
