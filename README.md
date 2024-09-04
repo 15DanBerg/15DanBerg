@@ -1,4 +1,4 @@
-## Hello anyone 👀
+## Hello 👀
 
 i'm a backend developer.
 
