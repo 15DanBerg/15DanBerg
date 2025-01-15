@@ -1,7 +1,5 @@
 ## Hello 👀
 
-i'm a backend developer.
-
 ## technologies 
 
 <div style="display: inline_block"><br/> 
